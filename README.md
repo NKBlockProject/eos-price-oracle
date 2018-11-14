@@ -1,5 +1,5 @@
 # eos-price-oracle
-eos price
+
 EOS Rio Price Oracle
 This is a simple service that can store information of different exchange rates in a Multi-Index Table on the EOS blockchain, where any developer can access the data.
 
